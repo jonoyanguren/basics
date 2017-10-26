@@ -1,0 +1,13 @@
+h1 {
+	color: white;
+	background: orange;
+	padding: 20px;
+}
+
+.call-to-action {
+    background: blue;
+    color: white;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 3px;
+}
